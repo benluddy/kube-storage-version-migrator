@@ -2,13 +2,13 @@
 
 reviewers:
 - p0lyn0mial
-- sttts
 - sanchezl
 - deads2k
+- benluddy
 
 approvers:
 - deads2k
-- sttts
 - sanchezl
+- benluddy
 
 component: kube-storage-version-migrator
